@@ -1,3 +1,14 @@
+## Avaliação
+A avaliação trimestal será uma prova escrita ou uma avaliação das softskils apresentadas e do ecossistema dos alunos durante o trimestre
+
+---
+
+## Ementa
+
+> Modelagem de software orientada a objetos. Conceitos de software, qualidade, requisitos e projeto de software. Notações para registro de modelos orientados a objetos. Processo de requisitos, definições básicas, elicitação, análise, especificação, verificação e validação de requisitos. Modelos e métodos da engenharia de requisitos. Gerência de projetos de engenharia de requisitos. Relação do processo de projeto arquitetural com requisitos.
+
+---
+
 ## Pesquise e discuta em equipe
 
 - O que as empresas buscam em um profissional?  
