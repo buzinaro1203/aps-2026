@@ -20,8 +20,8 @@ Estratégica → oportunista, em tempo hábil, apresentar o que foi feito até o
   Requisitos → Arquitetura/Design → Implementação → Verificação → Manutenção.  
   Modelo linear, bom para pequenos projetos que não possuem grande escalabilidade. Há contato com o cliente, mas não envolvimento ao longo do processo.
 
-  - **Modelo evolutivo**:  
-  Modelo em que os requisitos e o código vão evoluindo a cada etapa, criando uma espécie de espiral. O documento de requisitos só fica pronto no final do projeto, fazendo com que, em cada estágio, o documento de requisitos possa sofrer mudanças, mantendo o software sempre em evolução até que o usuário não sugira mais requisitos.
+- **Modelo evolutivo**:  
+Modelo em que os requisitos e o código vão evoluindo a cada etapa, criando uma espécie de espiral. O documento de requisitos só fica pronto no final do projeto, fazendo com que, em cada estágio, o documento de requisitos possa sofrer mudanças, mantendo o software sempre em evolução até que o usuário não sugira mais requisitos.
 
 - **Modelo incremental**:  
   Parecido com o modelo em cascata, porém possui várias etapas. Após implementar, verificar e fazer a manutenção, retornamos para os requisitos e design novamente.  
