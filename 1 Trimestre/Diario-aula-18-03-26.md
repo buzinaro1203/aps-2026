@@ -2,111 +2,97 @@
 
 ---
 
-## 📌 Cadastro de Livro
-
-- O cadastro do livro é feito com quais dados?  
-  (título, autor, editora, ano, ISBN, categoria e número de tombo)
-
----
-
 ## 👤 Cadastro de Usuário
 
-- Como é feito o cadastro de cada tipo de usuário (tem alguma diferença na hora de cadastrar cada um)?
+- Existe alguma informação para confirmar se o usuário é aluno, professor ou funcionário, como um registro ou matrícula, por exemplo? → Ana
 
 ---
 
 ## 📏 Regras de Usuário
 
-- Professores, funcionários e direção também pagam multa?
-- Quais são os prazos de empréstimo para cada tipo de usuário?
-- Qual é o limite de itens por usuário?
+- Professores, membros da direção e funcionários também pagam multa em caso de atraso? → Rosa
 
 ---
 
 ## 📚 Reserva
 
-- Quais dados são utilizados na reserva (do usuário e do livro)?
-- Quantas reservas um usuário pode realizar?
-- Sobre o prazo de 3 dias da reserva:
-  - Se vencer em um domingo ou feriado, o prazo é estendido ou o livro retorna para a estante?
-- Como é feito o preenchimento do caderno de reservas?
-- Já aconteceu de um usuário que realizou a reserva reclamar que não foi avisado?
+- Quando é feita uma reserva, quais são os dados solicitados do usuário? → Júlia  
+  - E quais dados dos livros são anotados? → Júlia  
+- Quantas reservas um usuário pode realizar? → Rosa  
+- Sobre o prazo de 3 dias da reserva:  
+  - Se vencer em um domingo ou feriado, o prazo é estendido ou o livro retorna para a estante? → Rosa  
 
 ---
 
 ## 📖 Empréstimo
 
-- É possível consultar o histórico de empréstimos?
-- O sistema notifica o usuário sobre o prazo de devolução?
-  - Caso não, essa funcionalidade seria útil?
+- É possível consultar o histórico de empréstimos? → Júlia  
+- O sistema notifica o usuário sobre o prazo de devolução? → Júlia  
 
 ---
 
 ## 🔄 Renovação
 
-- A prioridade do professor na renovação sobrepõe uma reserva ativa?
-  - Isso ocorre apenas em relação a alunos/funcionários ou também entre professores?
+- A prioridade do professor na renovação sobrepõe uma reserva ativa? → Rosa  
+  - Isso ocorre apenas em relação a alunos/funcionários ou também entre professores? → Rosa  
+- Qual o limite de renovação para os usuários? → Rosa  
 
 ---
 
 ## 📅 Devolução e Estado do Livro
 
-- Como você decide se um livro está:
-  - Bom
-  - Danificado
-- Já teve dúvida ao classificar o estado do livro?
+- Como você decide se um livro está: → Júlia  
+  - Bom → Júlia  
+  - Danificado → Júlia  
+- Já teve dúvida ao classificar o estado do livro? → Júlia  
 
 ---
 
 ## 💰 Multas
 
-- O que acontece quando um aluno perde um livro?
-- Existe abono de multa em casos de atestado?
-- O sistema deveria avisar:
-  - Antes da multa ser gerada (antes do vencimento)?
-  - Ou apenas no momento do atraso?
+- O que acontece quando um aluno perde um livro? → Rosa  
+- Existe abono de multa em casos de atestado? → Rosa  
 
 ---
 
 ## ⚙️ Regras Gerais
 
-- Comunidade externa não tem acesso
-- O pagamento é feito apenas em dinheiro no balcão
-
----
-Perguntas geradas em equipe na aula
--Wellington -> responsavel por analisar respostas da julia
--Matheus -> responsavel por analisar respostas da rosa
--guilherme -> responsavel por analisar respostas da Ana e organizar a versão final das respostas
--Claudio -> responsavel por analisar documento da Julia
-
-## 🖥️ Uso do Sistema
-
-- Quais telas do sistema você mais utiliza durante o atendimento?
-- Existe alguma parte do sistema que você evita usar por ser difícil?
-- Você teve treinamento para aprender a usar o sistema?
+- Comunidade externa não tem acesso. → Ana  
+- O pagamento é feito apenas em dinheiro no balcão. → Ana  
 
 ---
 
-## 🔓 Bloqueios e Exceções
+## 📝 Relatórios
 
-- Já precisou liberar um usuário bloqueado manualmente?
-
----
-
-## 💡 Melhorias
-
-- O que tornaria o atendimento mais rápido?
-- Se pudesse adicionar uma função, qual seria?
-  - Reservas automáticas?
-  - Consulta online?
+- Quais dados são indispensáveis em um relatório? → Ana  
+- Com que frequência devem ser gerados? → Ana  
+- Qual formato vocês utilizam? → Ana  
 
 ---
 
 ## ❗ Perguntas Finais
 
-- Já aconteceu alguma situação que o sistema não conseguiu resolver?
-- Qual foi o maior problema que você já enfrentou aqui?
-- Existe algo importante que não foi perguntado?
+- Existe algum outro documento ao qual podemos ter acesso? Um relatório, registro ou até mesmo o caderno de reservas. → Ana  
+- Existe algo importante que não foi perguntado? → Ana  
 
-IA foi utilizada para ajudar a estruturar esse documento e organizar as categorias.
+---
+
+## 👥 Observações para Lu
+
+Nossa ideia para lapidar as perguntas foi a seguinte: analisar as respostas das funcionárias e identificar onde havia conflito entre os stakeholders, além de verificar onde poderíamos aprofundar e especificar melhor nossas perguntas.
+Tentamos deixar o documento o mais enxuto e preciso possível, ao mesmo tempo em que cobrisse todas as áreas.
+O nome na frente do “->” indica para quem a pergunta é direcionada.
+
+Alan → ajudou a validar as questões via home office
+
+Wellington → responsável por analisar as respostas da Júlia
+
+Matheus → responsável por analisar as respostas da Rosa
+
+Guilherme → responsável por analisar as respostas da Ana além de organizar e entregar a versão final
+
+Claudio → responsável por analisar o documento da Júlia
+
+*IA foi utilizada para ajudar a estruturar este documento e organizar as categorias. Também foi utilizada para verificar se poderíamos deixar as perguntas mais específicas.*
+---
+
