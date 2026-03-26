@@ -1,0 +1,45 @@
+- Pergunta 1 para ana: resposta da lu: Razoavel
+Qual o limite de renovação para os usuários?
+Sobre o prazo de 3 dias da reserva: se vencer em domingo ou feriado, o prazo é estendido ou o livro retorna?
+
+Respostas Ana:
+
+Renovação é permitida **uma única vez** por empréstimo, e fica bloqueada se houver atraso.
+
+Sobre reserva: o prazo é de **2 dias úteis**, então domingo e feriado não contam — o prazo se estende automaticamente para o próximo dia útil.
+
+- Pergunta 2 para julia: 
+
+Existe alguma ação especial pra caso o usuário não venha buscar um livro reservado?
+
+Resposta Julia:
+Ah, boa pergunta! Então, pelo que vi aqui na prática... quando um usuário faz uma reserva, o livro fica separado para ele, não é? Acho que tem um prazo para ele vir buscar, mas não tenho certeza de quanto tempo é. Pode ser... 3 dias? 5 dias? Honestamente, não lembro ao certo.
+
+Se ele não vem buscar dentro desse prazo, me parece que a reserva é cancelada automaticamente e o livro volta para a fila de quem mais tá esperando. Pelo menos é o que faz sentido, né? Mas isso eu não tenho 100% de certeza.
+
+O que eu sei bem mesmo é o que acontece *depois* que ele pega emprestado – aí sim a gente controla direitinho: 7 dias de prazo, multa de R$1,00 por dia de atraso...
+
+Quer saber? Melhor você pergunta para a Ana ou a Rosa sobre os prazos exatos de reserva. Elas lidam mais com essas regras de sistema. Eu cuido mais da devolução mesmo, sabe?
+
+Tem mais alguma coisa que eu possa ajudar?
+
+- Pergunta 3 para Julia: feedback: razoavel:
+
+Qual o limite maximo de reservas simultaneas por usuario:
+
+Hmm, boa pergunta! Acho que não tem um limite específico não... ou pelo menos eu nunca vi alguém ter a reserva negada por ter muitas. Me parece que cada usuário pode reservar quantos livros quiser, sabe?
+
+Mas honestamente, não tenho certeza sobre isso. Pode ser que tenha um limite e eu simplesmente não tenha visto na prática, ou que varie de acordo com o tipo de usuário – tipo aluno, professor, essas coisas.
+
+Isso é mais uma daquelas coisas que a Ana ou a Rosa saberiam melhor, porque elas que cuidam das configurações do sistema. Eu aqui no balcão não tenho uma visão clara disso, entende?
+
+O que eu sei é que pra fazer uma reserva, o livro precisa estar indisponível – aí sim a gente consegue registrar. Mas quantas reservas cada pessoa pode fazer ao mesmo tempo, aí eu realmente não sei com certeza.
+
+- Pergunta 4 pra ana: feedback razoavel:
+
+Quais tipos de notificação devem existir no novo sistema? a partir de quando o sistema começará a realizar as notificações?
+
+Res
+
+Obs.
+A lu disse mais de uma vez que estavamos perguntando sem um histórico anterior porém nós temos informações dos outros questionarios feitos. Muitas de nossos feedbacks foram afetados por isso.
