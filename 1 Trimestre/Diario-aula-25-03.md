@@ -90,4 +90,5 @@
 - Muitas perguntas feitas para Rosa e Julia foram respondidas com **mais dúvidas do que fatos**, o que gera dificuldade na extração de requisitos.  
 - Mesmo assim, a equipe considera que já foi possível coletar **uma quantidade significativa de informações**, formando uma boa base para definição dos requisitos.  
 - A Lu comentou mais de uma vez que as perguntas estavam sendo feitas sem um histórico anterior, porém a equipe já possui informações de outros questionários realizados.  
-- Parte dos feedbacks recebidos foi impactada por essa percepção.  
+- Parte dos feedbacks recebidos foi impactada por essa percepção.
+- Outro grande problema foi que apesar de o site mostrar que tinhamos mais 10 minutos de conversa, nossa sessão foi cortada antes do tempo esgotar.
