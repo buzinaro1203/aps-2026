@@ -1,8 +1,7 @@
 # Levantamento de Requisitos – Entrevistas
 
 ## Pergunta 1 – Ana  
-**Feedback:** Razoável  
-**Resposta da Lu:** Razoável  
+**Feedback da equipe:** Resposta da Ana foi precisa e nos da muitas informações.
 
 **Perguntas:**
 - Qual o limite de renovação para os usuários?  
@@ -15,6 +14,7 @@
 ---
 
 ## Pergunta 2 – Julia  
+**Feedback da equipe:** Resposta da Julia foi vaga mas conseguimos entender que existe um cancelamento automatico da reserva após um certo periodo. (Perguntar sobre o periodo para ana na próxima entrevista)
 
 **Pergunta:**
 - Existe alguma ação especial para o caso do usuário não vir buscar um livro reservado?
@@ -32,8 +32,8 @@
 
 ---
 
-## Pergunta 3 – Julia  
-**Feedback:** Razoável  
+## Pergunta 3 – Julia    
+**Feedback da equipe:** Resposta ruim da Julia, nn conseguimos nada. Reformular e perguntar para a Ana.
 
 **Pergunta:**
 - Qual o limite máximo de reservas simultâneas por usuário?
@@ -50,7 +50,7 @@
 ---
 
 ## Pergunta 4 – Ana  
-**Feedback:** Razoável  
+**Feedback da equipe:** Resposta boa da Ana, apesar de ela dizer que não é o papel dela, ela ja nos entrega 2 situações para um sistema de notificação.
 
 **Perguntas:**
 - Quais tipos de notificação devem existir no novo sistema?  
@@ -65,6 +65,7 @@
 ---
 
 ## Respostas – Rosa  
+**Feedback da equipe:** Resposta boa da Rosa, nn tiramos nada especifico mas ja vemos situações que nosso sistema pode automatizer e reduzir trabalho manual, além de um sistema de notificação para lembrar o cliente do prazo para devolução.
 
 **Pergunta:**
 - Quais os maiores problemas no dia a dia?
@@ -75,6 +76,7 @@
 > Mas pra detalhar melhor como isso afeta o sistema novo, é melhor você conversar com a Ana, que acompanha tudo mais de perto.
 
 ---
+**Feedback da equipe:** Resposta ruim da rosa, nn conseguimos nada. E perdemos tempo.
 
 **Pergunta:**
 - Qual o limite máximo de reservas simultâneas por usuário?
@@ -89,6 +91,5 @@
 - As questões feitas para a Ana, apesar de demorarem cerca de 15 minutos para resposta, foram **boas e produtivas**, permitindo extrair informações relevantes.  
 - Muitas perguntas feitas para Rosa e Julia foram respondidas com **mais dúvidas do que fatos**, o que gera dificuldade na extração de requisitos.  
 - Mesmo assim, a equipe considera que já foi possível coletar **uma quantidade significativa de informações**, formando uma boa base para definição dos requisitos.  
-- A Lu comentou mais de uma vez que as perguntas estavam sendo feitas sem um histórico anterior, porém a equipe já possui informações de outros questionários realizados.  
-- Parte dos feedbacks recebidos foi impactada por essa percepção.
+- A Lu comentou mais de uma vez que as perguntas estavam sendo feitas sem um histórico anterior, porém a equipe já possui informações de outros questionários realizados. Parte dos feedbacks da lu recebidos foi impactada por essa percepção.
 - Outro grande problema foi que apesar de o site mostrar que tinhamos mais 10 minutos de conversa, nossa sessão foi cortada antes do tempo esgotar.
